@@ -1,0 +1,7 @@
+# Keep .vscode folder out of here, it's used by VSCode
+dist
+build
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+node-modules
